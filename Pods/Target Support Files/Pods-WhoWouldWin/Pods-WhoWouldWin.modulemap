@@ -1,0 +1,6 @@
+framework module Pods_WhoWouldWin {
+  umbrella header "Pods-WhoWouldWin-umbrella.h"
+
+  export *
+  module * { export * }
+}

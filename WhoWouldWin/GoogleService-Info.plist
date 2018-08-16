@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>261642289469-sm8ks1e4i8kr7g8vv57tqrm6q5skj819.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.261642289469-sm8ks1e4i8kr7g8vv57tqrm6q5skj819</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAydotP8s5OolM8pWdfpH10l7uA_cei-g0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>261642289469</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>at.fhooe.mc.WhoWouldWin</string>
+	<key>PROJECT_ID</key>
+	<string>whowouldwin-hjv</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whowouldwin-hjv.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:261642289469:ios:687118d0b40f42ed</string>
+	<key>DATABASE_URL</key>
+	<string>https://whowouldwin-hjv.firebaseio.com</string>
+</dict>
+</plist>
